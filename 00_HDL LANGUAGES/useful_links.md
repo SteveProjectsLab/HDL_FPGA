@@ -10,7 +10,7 @@ A curated collection of libraries, IP cores, books, and frameworks for mastering
 * **[The Designer's Guide to VHDL](https://www.elsevier.com/books/the-designers-guide-to-vhdl/ashenden/978-0-12-088785-0)** (Peter Ashenden): A comprehensive reference for the VHDL language syntax and advanced features.
 * **[Effective VHDL](https://leanpub.com/effectivevhdl)** (Doug Smith): Focuses on industry best practices and solving real-world design challenges efficiently.
 
-* **[Site]([https://github.com/ghdl/ghdl](https://www.digitalelectronicsdeeds.com/))**: very useful site
+* **[Site](https://www.digitalelectronicsdeeds.com/)**: very useful site
 ---
 
 ## 📦 Libraries & IP Cores
